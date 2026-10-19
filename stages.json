@@ -1,0 +1,110 @@
+{
+ "job": "Casa 7, Las Brenas, Lanzarote",
+ "revision": "Q01",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Foundation ICF",
+   "desc": "Nudura 6in XR35 foundation walls, two courses on the tie beams (-0.715 to +0.200), and the 6in Standard cross wall.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 327680
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Pool and plant room",
+   "desc": "One 6in Standard ICF loop with the shared wall T-ing in: the 10.0 x 3.6 m pool (4 courses) and the plant / storage room behind it (6 courses, founded at -2.80); base slabs assumed.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 662924
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Ground-floor slab",
+   "desc": "Concrete ground-bearing slab inside the walls, 150 on a 150 sub-base - indicative, the basic design does not specify it.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 3608
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Ground-floor ICF",
+   "desc": "Ground-floor walls, seven courses to the first-floor level +3.40, with the 25 mm external overfly on every opening head and jamb.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 702144
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "First floor",
+   "desc": "One-way joist floor (forjado 30: joists at 700, 250 concrete blocks, 50 topping) with the 300 south slab edge and the 3.0 m north cantilever, screed, and the solarium inverted terrace.",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 5404
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "First-floor ICF",
+   "desc": "First-floor walls to the +7.00 parapet, cantilevering 300 past the ground-floor south wall as drawn, the solarium parapet to +4.30 and the stair wall.",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": null,
+     "label": null,
+     "bytes": 789592
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Roofs",
+   "desc": "Flat roof: forjado 30 with lightweight-concrete falls, membrane, XPS and gravel ballast; plant room deck slab.",
+   "files": [
+    {
+     "glb": "stage-7.glb",
+     "part": null,
+     "label": null,
+     "bytes": 3880
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Windows, doors and glazing screens",
+   "desc": "The joinery schedule: timber entrance door, aluminium sliding screens, tilt-turn windows and the 6.16 x 2.80 bedroom 2 glazing screen.",
+   "files": [
+    {
+     "glb": "stage-8.glb",
+     "part": null,
+     "label": null,
+     "bytes": 30032
+    }
+   ]
+  }
+ ]
+}

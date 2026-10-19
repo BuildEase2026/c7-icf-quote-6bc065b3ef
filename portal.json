@@ -236,7 +236,7 @@
    "note": "General arrangements, elevations and a section from the quotation model, the Nudura proposal, the 40 ft container load plans and pallet stack sheets, and the English translation of the basic-design specification. For pricing, not for construction.",
    "zip": {
     "file": "downloads/ES26-082 Quotation documents.zip",
-    "bytes": 1093229,
+    "bytes": 1090539,
     "count": 11
    },
    "docs": [
@@ -246,7 +246,7 @@
      "file": "docs/drawings/ES26-082-GA-01 Pool Plant Room ICF General Arrangement.pdf",
      "pages": 1,
      "thumb": "thumbs/ES26-082-GA-01.png",
-     "bytes": 55289,
+     "bytes": 55277,
      "number": "ES26-082-GA-01",
      "view": "stage-2",
      "view_opts": {}
@@ -257,7 +257,7 @@
      "file": "docs/drawings/ES26-082-GA-02 Foundation ICF General Arrangement.pdf",
      "pages": 1,
      "thumb": "thumbs/ES26-082-GA-02.png",
-     "bytes": 55087,
+     "bytes": 55070,
      "number": "ES26-082-GA-02",
      "view": "stage-1",
      "view_opts": {}
@@ -268,7 +268,7 @@
      "file": "docs/drawings/ES26-082-GA-03 Ground Floor ICF General Arrangement.pdf",
      "pages": 1,
      "thumb": "thumbs/ES26-082-GA-03.png",
-     "bytes": 57616,
+     "bytes": 57674,
      "number": "ES26-082-GA-03",
      "view": "stage-4",
      "view_opts": {}
@@ -279,7 +279,7 @@
      "file": "docs/drawings/ES26-082-GA-04 First Floor ICF General Arrangement.pdf",
      "pages": 1,
      "thumb": "thumbs/ES26-082-GA-04.png",
-     "bytes": 57030,
+     "bytes": 57055,
      "number": "ES26-082-GA-04",
      "view": "stage-6",
      "view_opts": {}
@@ -312,7 +312,7 @@
      "file": "docs/drawings/ES26-082-SE-01 Section A-A.pdf",
      "pages": 1,
      "thumb": "thumbs/ES26-082-SE-01.png",
-     "bytes": 68920,
+     "bytes": 68902,
      "number": "ES26-082-SE-01",
      "view": "stage-8",
      "view_opts": {}
@@ -334,7 +334,7 @@
      "file": "docs/drawings/ES26-082-PR-01 Nudura proposal.pdf",
      "pages": 4,
      "thumb": "thumbs/ES26-082-PR-01.png",
-     "bytes": 366297,
+     "bytes": 363186,
      "number": "ES26-082-PR-01",
      "view": "stage-8",
      "view_opts": {}
@@ -369,7 +369,7 @@
  "toggles": [],
  "download_all": {
   "file": "downloads/ES26-082 Casa 7, Las Brenas, Lanzarote - Quotation Q01.zip",
-  "bytes": 1093317,
+  "bytes": 1090627,
   "count": 11,
   "title": "Download everything"
  }
